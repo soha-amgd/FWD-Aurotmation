@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-22T04:07:53 EET" name="Default suite" finished-at="2022-02-22T04:08:52 EET" duration-ms="59079">
+    <groups>
+    </groups>
+    <test started-at="2022-02-22T04:07:53 EET" name="Default test" finished-at="2022-02-22T04:08:52 EET" duration-ms="59079">
+      <class name="tests.TestScenario">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:07:16 EET" name="startDriver" finished-at="2022-02-22T04:07:53 EET" duration-ms="36858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="userOpenRegisterationPage()[pri:1, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:07:53 EET" name="userOpenRegisterationPage" finished-at="2022-02-22T04:07:58 EET" duration-ms="4720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userOpenRegisterationPage -->
+        <test-method signature="UserCanRegister()[pri:2, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:07:58 EET" name="UserCanRegister" finished-at="2022-02-22T04:08:05 EET" duration-ms="6886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanRegister -->
+        <test-method signature="userSignOut()[pri:3, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:05 EET" name="userSignOut" finished-at="2022-02-22T04:08:08 EET" duration-ms="3557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignOut -->
+        <test-method signature="userLogInWithValidCredentials()[pri:4, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:08 EET" name="userLogInWithValidCredentials" finished-at="2022-02-22T04:08:10 EET" duration-ms="1739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogInWithValidCredentials -->
+        <test-method signature="UserCanSearchAndAddItemToCart()[pri:5, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:10 EET" name="UserCanSearchAndAddItemToCart" finished-at="2022-02-22T04:08:31 EET" duration-ms="21110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanSearchAndAddItemToCart -->
+        <test-method signature="UserOpenContactUsPage()[pri:6, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:31 EET" name="UserOpenContactUsPage" finished-at="2022-02-22T04:08:37 EET" duration-ms="6011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserOpenContactUsPage -->
+        <test-method signature="UserCanHoverOverAnItem()[pri:7, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:37 EET" name="UserCanHoverOverAnItem" finished-at="2022-02-22T04:08:45 EET" duration-ms="8433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCanHoverOverAnItem -->
+        <test-method signature="UserForgetPasswordandRetriveIt()[pri:8, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:45 EET" name="UserForgetPasswordandRetriveIt" finished-at="2022-02-22T04:08:52 EET" duration-ms="6587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserForgetPasswordandRetriveIt -->
+        <test-method is-config="true" signature="stopDriver()[pri:0, instance:tests.TestScenario@44ebcd03]" started-at="2022-02-22T04:08:52 EET" name="stopDriver" finished-at="2022-02-22T04:08:52 EET" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.TestScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
